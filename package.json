@@ -1,4 +1,8 @@
 {
   "name": "watchtogether_client",
-  "packageManager": "yarn@4.9.2"
+  "packageManager": "yarn@4.9.2",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  }
 }
