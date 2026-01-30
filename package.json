@@ -4,5 +4,9 @@
   "type": "module",
   "scripts": {
     "dev": "node index.js"
+  },
+  "dependencies": {
+    "webtorrent": "^2.8.4",
+    "ws": "^8.18.3"
   }
 }
